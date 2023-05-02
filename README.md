@@ -1,6 +1,6 @@
-## Détecter des faux billets avec Python
+# Détecter des faux billets avec Python
 
-# Missions effectuées durant ce projet :
+## Missions effectuées durant ce projet :
 - Analyse descriptive des données : répartition des dimensions des billets, nombre de vrais/faux billets, etc.
 - Implémentation d'une régression linéaire multiple afin de trouver les valeurs manquantes du dataset.
 - Implémentation d'une régression logistique classique pour prédire la nature des billets.
